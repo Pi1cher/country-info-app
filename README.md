@@ -1,4 +1,4 @@
-To the project execute same commands in backend and fronted folders:
+To start the project execute same commands in backend and fronted folders:
 1. npm install (installing dependencies)
 2. npm start (starting servers)
 
